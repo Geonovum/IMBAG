@@ -1,3 +1,3 @@
-# Informatiemodel BAG (IMBAG)
+# IMBAG: Informatiemodel BAG
 
 Hier dan tekst...
