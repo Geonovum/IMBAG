@@ -1,3 +1,6 @@
-# IMBAG: Informatiemodel BAG
+# IMBAG
 
-Hier dan tekst...
+Informatiemodel BAG
+
+Werkruimte voor ontwikkeling van nieuwe catalogus BAG.
+
