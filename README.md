@@ -6,7 +6,7 @@ Werkruimte voor ontwikkeling van nieuwe catalogus BAG.
 
 De documenten in deze werkruimte zijn concept-documenten, waaraan geen rechten kunnen worden ontleend.
 
-Update 31/01/2017:
+## Update 31/01/2017:
 
 De reacties op meldingen die ingediend zijn via Github zijn verzameld in dit document:
 
